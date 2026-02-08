@@ -1,0 +1,6 @@
+{
+    "appId": "com.shadils.webchat",
+    "appName": "Shadils Chat",
+    "webDir": "www",
+    "bundledWebRuntime": false
+}
